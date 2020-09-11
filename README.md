@@ -1,2 +1,3 @@
-# Butler_Data_Analytics_Projects_KK
-My Butler Data Analytics Certificate Course Projects
+# Projects_Portfolio_KK
+This is my portfolio of projects developed while attenting the Butler Data Analytics and Data Visualization Certificate Program 
+at Butler University
